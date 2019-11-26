@@ -6,5 +6,5 @@ Install the below packages:
 2.) pytz
 3.) tkcalendar
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+TZpy First View:
+(/images/logo.png)

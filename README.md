@@ -6,5 +6,4 @@ Install the below packages:
 2.) pytz
 3.) tkcalendar
 
-TZpy First View:
-(/images/logo.png)
+![TZpy First View]: (https://raw.githubusercontent.com/rajinfor/TZpy/TZ_First_View.png)
